@@ -27,7 +27,7 @@
     <ClCompile Include="src\opengl\engine\camera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\opengl\simple_triangle.cpp">
+    <ClCompile Include="src\opengl\shaders.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
