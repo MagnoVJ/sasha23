@@ -63,7 +63,7 @@ int main(int argc, char* argv[])
 	unsigned int VBO, VAO;
 
 	glGenVertexArrays(1, &VAO);
-	glGenBuffers(1, &VBO);
+	glGenBuffers(1, &VBO); 
 
 	glBindVertexArray(VAO);
 
