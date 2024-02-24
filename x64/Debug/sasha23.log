@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\55379\sasha23\src\opengl\main.cpp(99,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\55379\sasha23\src\opengl\main.cpp(100,25): warning C4305: '=': truncation from 'double' to 'float'
+  sasha23.vcxproj -> C:\Users\55379\sasha23\x64\Debug\sasha23.exe

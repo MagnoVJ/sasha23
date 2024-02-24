@@ -1,0 +1,4 @@
+﻿  http_request.cpp
+C:\Users\55379\sasha23\src\http_request.cpp(7,9): warning C4068: unknown pragma 'commnet'
+C:\Users\55379\sasha23\src\http_request.cpp(21,14): error C2440: 'initializing': cannot convert from 'const char [25]' to 'char *'
+C:\Users\55379\sasha23\src\http_request.cpp(21,14): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
